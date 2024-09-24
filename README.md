@@ -1,5 +1,5 @@
-apple
-banana
-orange
-pineapple
-watermelon
+lion 
+tiger
+elephant
+monkey
+giraffe
